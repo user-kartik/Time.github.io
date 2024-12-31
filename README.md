@@ -1,3 +1,3 @@
 ## Time
 Check for live Demo
-https://user-kartik.github.io/Time.github.io/
+<a href="https://user-kartik.github.io/Time.github.io/"><strong>➥ Live Demo</strong></a>
